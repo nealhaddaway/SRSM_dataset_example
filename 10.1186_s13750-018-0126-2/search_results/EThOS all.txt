@@ -1,0 +1,542 @@
+﻿TY  - THES
+AU  - Anderson, Dawn E
+PB  - University of Glasgow
+PY  - 2014
+ST  - Yellowhammer (Emberiza citrinella) ecology in an intensive pastoral dominated farming landscape
+TI  - Yellowhammer (Emberiza citrinella) ecology in an intensive pastoral dominated farming landscape
+ID  - 49521
+ER  - 
+
+TY  - THES
+AU  - Angold, Penelope Gaynor
+PB  - University of Southampton
+PY  - 1992
+ST  - The role of buffer zones in the conservation of semi-natural habitats
+TI  - The role of buffer zones in the conservation of semi-natural habitats
+ID  - 49473
+ER  - 
+
+TY  - THES
+AU  - Bamforth, Selina Mary
+PB  - University of Newcastle upon Tyne
+PY  - 2003
+ST  - Microbial diversity and biogeochemical activity in a riparian buffer zone
+TI  - Microbial diversity and biogeochemical activity in a riparian buffer zone
+ID  - 49477
+ER  - 
+
+TY  - THES
+AU  - Bamforth, Selina Mary
+PB  - University of Newcastle upon Tyne
+PY  - 2003
+ST  - Microbial diversity and biogeochemical activity in a riparian buffer zone
+TI  - Microbial diversity and biogeochemical activity in a riparian buffer zone
+ID  - 50926
+ER  - 
+
+TY  - THES
+AU  - Blake, Robin J
+PB  - University of Reading
+PY  - 2012
+ST  - Increasing the biodiversity benefits of existing buffer strips through novel management practices
+TI  - Increasing the biodiversity benefits of existing buffer strips through novel management practices
+ID  - 49491
+ER  - 
+
+TY  - JOUR
+AU  - Boukelia, Willena Esther
+PY  - 2012
+ST  - Potential for N pollution swapping from riparian buffer strips and an instream wetland
+TI  - Potential for N pollution swapping from riparian buffer strips and an instream wetland
+ID  - 49494
+ER  - 
+
+TY  - JOUR
+AU  - Boukelia, Willena Esther
+PY  - 2012
+ST  - Potential for N pollution swapping from riparian buffer strips and an instream wetland
+TI  - Potential for N pollution swapping from riparian buffer strips and an instream wetland
+ID  - 50932
+ER  - 
+
+TY  - JOUR
+AU  - Bright, Jennifer Anne
+PY  - 2004
+ST  - Insects on farmland and their importance to granivorous birds
+TI  - Insects on farmland and their importance to granivorous birds
+ID  - 49520
+ER  - 
+
+TY  - THES
+AU  - Brown, Alison Louise
+PB  - Manchester Metropolitan University
+PY  - 1999
+ST  - Selective control of cleavers (Galium aparine) during the succession of arable field margins
+TI  - Selective control of cleavers (Galium aparine) during the succession of arable field margins
+ID  - 49508
+ER  - 
+
+TY  - THES
+AU  - Cannell, Simon
+PB  - University of Bristol
+PY  - 1997
+ST  - Buffer zones, ground water quality and ditch-water eutrophication in a lowland mire
+TI  - Buffer zones, ground water quality and ditch-water eutrophication in a lowland mire
+ID  - 49475
+ER  - 
+
+TY  - THES
+AU  - Critchley, CNR
+PB  - University of East Anglia
+PY  - 1996
+ST  - Vegetation of arable field margins in Breckland
+TI  - Vegetation of arable field margins in Breckland
+ID  - 49512
+ER  - 
+
+TY  - THES
+AU  - Deletic, Ana
+PB  - University of Aberdeen
+PY  - 2000
+ST  - Sediment behaviour in overland flow over grassed areas
+TI  - Sediment behaviour in overland flow over grassed areas
+ID  - 49488
+ER  - 
+
+TY  - THES
+AU  - Douglas, David James Thomas
+PB  - University of Leeds
+PY  - 2007
+ST  - Insect availability for breeding yellowhammers on lowland farmland
+TI  - Insect availability for breeding yellowhammers on lowland farmland
+ID  - 49510
+ER  - 
+
+TY  - THES
+AU  - Ducros, Caroline MJ
+PB  - University of Brighton
+PY  - 1999
+ST  - An evaluation of riparian buffer zone policy in UK agricultural catchments
+TI  - An evaluation of riparian buffer zone policy in UK agricultural catchments
+ID  - 49479
+ER  - 
+
+TY  - THES
+AU  - Ducros, Caroline MJ
+PB  - University of Brighton
+PY  - 1999
+ST  - An evaluation of riparian buffer zone policy in UK agricultural catchments
+TI  - An evaluation of riparian buffer zone policy in UK agricultural catchments
+ID  - 50928
+ER  - 
+
+TY  - THES
+AU  - Dunkley, Felicity Ann
+PB  - University of Southampton
+PY  - 1997
+ST  - Management options for hedgerow vegetation: combining weed control with habitat improvement for predatory arthropods
+TI  - Management options for hedgerow vegetation: combining weed control with habitat improvement for predatory arthropods
+ID  - 49500
+ER  - 
+
+TY  - JOUR
+AU  - Duzant, Julia H
+PY  - 2008
+ST  - Towards guidance for the design and placement of vegetated filter strips
+TI  - Towards guidance for the design and placement of vegetated filter strips
+ID  - 49487
+ER  - 
+
+TY  - THES
+AU  - Edwards, Richard Reginald
+PB  - University of Bristol
+PY  - 2000
+ST  - The potential for the use of willow (Salix spp.) in buffer zones for reducing nitrate and atrazine pollution
+TI  - The potential for the use of willow (Salix spp.) in buffer zones for reducing nitrate and atrazine pollution
+ID  - 49481
+ER  - 
+
+TY  - THES
+AU  - Evers, Stephanie L
+PB  - University of Glasgow
+PY  - 2008
+ST  - The role of forest stream corridor characteristics in influencing stream and riparian ecology
+TI  - The role of forest stream corridor characteristics in influencing stream and riparian ecology
+ID  - 49484
+ER  - 
+
+TY  - THES
+AU  - Evers, Stephanie L
+PB  - University of Glasgow
+PY  - 2008
+ST  - The role of forest stream corridor characteristics in influencing stream and riparian ecology
+TI  - The role of forest stream corridor characteristics in influencing stream and riparian ecology
+ID  - 50931
+ER  - 
+
+TY  - THES
+AU  - Flynn, Nicola Jane
+PB  - Royal Holloway, University of London
+PY  - 2000
+ST  - Nitrogen interactions between floodwater and floodplain soils
+TI  - Nitrogen interactions between floodwater and floodplain soils
+ID  - 49480
+ER  - 
+
+TY  - THES
+AU  - Flynn, Nicola Jane
+PB  - Royal Holloway, University of London
+PY  - 2000
+ST  - Nitrogen interactions between floodwater and floodplain soils
+TI  - Nitrogen interactions between floodwater and floodplain soils
+ID  - 50929
+ER  - 
+
+TY  - JOUR
+AU  - Garratt, Claudia Mary
+PY  - 2012
+ST  - Managing vegetation for the conservation of the Common Kestrel Falco tinnunculus on farmland in England
+TI  - Managing vegetation for the conservation of the Common Kestrel Falco tinnunculus on farmland in England
+ID  - 49511
+ER  - 
+
+TY  - THES
+AU  - Gilroy, James J
+PB  - University of East Anglia
+PY  - 2006
+ST  - Breeding ecology and conservation of yellow wagtails Motacilla flava in intensive arable farmland
+TI  - Breeding ecology and conservation of yellow wagtails Motacilla flava in intensive arable farmland
+ID  - 49519
+ER  - 
+
+TY  - THES
+AU  - Griffiths, Paul
+PB  - University of Sheffield
+PY  - 1994
+ST  - Nutrient dynamics in manure amended grasslands
+TI  - Nutrient dynamics in manure amended grasslands
+ID  - 49483
+ER  - 
+
+TY  - THES
+AU  - Harwood, Robert William John
+PB  - University of Southampton
+PY  - 1994
+ST  - The management of arable field margins to enhance natural populations of beneficial arthropods
+TI  - The management of arable field margins to enhance natural populations of beneficial arthropods
+ID  - 49502
+ER  - 
+
+TY  - THES
+AU  - Haughton, Alison Julie
+PB  - Open University
+PY  - 2000
+ST  - Impact of glyphosate drift on non-target field margin invertebrates
+TI  - Impact of glyphosate drift on non-target field margin invertebrates
+ID  - 49493
+ER  - 
+
+TY  - THES
+AU  - Haughton, Alison Julie
+PB  - Open University
+PY  - 2000
+ST  - Impact of glyphosate drift on non-target field margin invertebrates
+TI  - Impact of glyphosate drift on non-target field margin invertebrates
+ID  - 49498
+ER  - 
+
+TY  - THES
+AU  - Haycock, Nicholas Euan
+PB  - University of Oxford
+PY  - 1991
+ST  - Riparian land as buffer zones in agricultural catchments
+TI  - Riparian land as buffer zones in agricultural catchments
+ID  - 49474
+ER  - 
+
+TY  - THES
+AU  - Humphry, Roger William
+PB  - University of Liverpool
+PY  - 1999
+ST  - Herbicide effects on a plant community and on monocultures of different densities
+TI  - Herbicide effects on a plant community and on monocultures of different densities
+ID  - 49505
+ER  - 
+
+TY  - THES
+AU  - Jensen, Susanne Plesner
+PB  - Queen's University of Belfast
+PY  - 1993
+ST  - Ecology and behaviour of small mammals on expanded field margins
+TI  - Ecology and behaviour of small mammals on expanded field margins
+ID  - 49504
+ER  - 
+
+TY  - THES
+AU  - Jones, Naomi Elizabeth
+PB  - UNIVERSITY OF ABERDEEN (UNITED KINGDOM)
+PY  - 1995
+ST  - Temporal and spatial variation of the vegetation, seed bank and seed rain in set-aside and adjacent habitats
+TI  - Temporal and spatial variation of the vegetation, seed bank and seed rain in set-aside and adjacent habitats
+ID  - 49514
+ER  - 
+
+TY  - THES
+AU  - Kielty, Jonathan Peter
+PB  - University of Herfordshire
+PY  - 1992
+ST  - The effects of field margins on the distribution and biocontrol potential potential of polyphagous predatory arthropods in arable crops
+TI  - The effects of field margins on the distribution and biocontrol potential potential of polyphagous predatory arthropods in arable crops
+ID  - 49509
+ER  - 
+
+TY  - THES
+AU  - Lambert, Mark Simon
+PB  - University of Leicester
+PY  - 2003
+ST  - Control of Norway Rats in the Agricultural Environment: Alternatives to Rodenticide Use
+TI  - Control of Norway Rats in the Agricultural Environment: Alternatives to Rodenticide Use
+ID  - 49516
+ER  - 
+
+TY  - THES
+AU  - Lozada Vazquez, Luz Maria
+PB  - University of Birmingham
+PY  - 2013
+ST  - Cooperation and coordination for landscape scale conservation: qualitative and experimental economics approach
+TI  - Cooperation and coordination for landscape scale conservation: qualitative and experimental economics approach
+ID  - 49517
+ER  - 
+
+TY  - THES
+AU  - Macey, Neil J
+PB  - University of Exeter
+PY  - 1998
+ST  - Farm woodlands as nitrate sinks
+TI  - Farm woodlands as nitrate sinks
+ID  - 49471
+ER  - 
+
+TY  - THES
+AU  - Matchett, Lisa Susanne
+PB  - University of Oxford
+PY  - 1998
+ST  - Denitrification in riparian buffer zones
+TI  - Denitrification in riparian buffer zones
+ID  - 49472
+ER  - 
+
+TY  - THES
+AU  - Matchett, Lisa Susanne
+PB  - University of Oxford
+PY  - 1998
+ST  - Denitrification in riparian buffer zones
+TI  - Denitrification in riparian buffer zones
+ID  - 50925
+ER  - 
+
+TY  - THES
+AU  - Matheson, Fleur Elizabeth
+PB  - Durham University
+PY  - 2001
+ST  - Nitrogen removal and the fate of nitrate in riparian buffer zones
+TI  - Nitrogen removal and the fate of nitrate in riparian buffer zones
+ID  - 49482
+ER  - 
+
+TY  - THES
+AU  - Matheson, Fleur Elizabeth
+PB  - Durham University
+PY  - 2001
+ST  - Nitrogen removal and the fate of nitrate in riparian buffer zones
+TI  - Nitrogen removal and the fate of nitrate in riparian buffer zones
+ID  - 50930
+ER  - 
+
+TY  - THES
+AU  - Mendes, Bulhoes Carlos Andre
+PB  - Bristol University
+PY  - 1994
+ST  - Modelling of pollutant distribution in surface runoff in ungauged catchments using geographical information systems
+TI  - Modelling of pollutant distribution in surface runoff in ungauged catchments using geographical information systems
+ID  - 49485
+ER  - 
+
+TY  - THES
+AU  - Mockler, Natalie Jayne
+PB  - University of Exeter
+PY  - 1996
+ST  - An investigation into the functioning of buffer zones for nitrate removal and the development of a system for predicting the most effective locations for buffer zones within a landscape
+TI  - An investigation into the functioning of buffer zones for nitrate removal and the development of a system for predicting the most effective locations for buffer zones within a landscape
+ID  - 49470
+ER  - 
+
+TY  - THES
+AU  - Morris, Antony James
+PB  - The University of Reading
+PY  - 2008
+ST  - Manipulating crop and field-margin vegetation structure for birds and food resources
+TI  - Manipulating crop and field-margin vegetation structure for birds and food resources
+ID  - 49507
+ER  - 
+
+TY  - THES
+AU  - Murray, Kathryn A
+PB  - Open University
+PY  - 2004
+ST  - Factors affecting foraging by breeding farmland birds
+TI  - Factors affecting foraging by breeding farmland birds
+ID  - 49518
+ER  - 
+
+TY  - THES
+AU  - Oaten, Heather
+PB  - Imperial College London
+PY  - 2010
+ST  - Local and landscape effects of field margins on aerially dispersing beneficial insects and spiders
+TI  - Local and landscape effects of field margins on aerially dispersing beneficial insects and spiders
+ID  - 49497
+ER  - 
+
+TY  - JOUR
+AU  - Palmer, Michael William
+PY  - 2012
+ST  - Agriculture fine sediment: sources, pathways and mitigation
+TI  - Agriculture fine sediment: sources, pathways and mitigation
+ID  - 49495
+ER  - 
+
+TY  - THES
+AU  - Perry, Nicola Hazel
+PB  - Open University
+PY  - 1997
+ST  - The implications of improving the conservation value of field margins on crop production
+TI  - The implications of improving the conservation value of field margins on crop production
+ID  - 49501
+ER  - 
+
+TY  - THES
+AU  - Petrovan, Silviu Octavian
+PB  - University of Hull
+PY  - 2011
+ST  - The landscape ecology of brown hares and European rabbits in pastures in the north east of England
+TI  - The landscape ecology of brown hares and European rabbits in pastures in the north east of England
+ID  - 49515
+ER  - 
+
+TY  - THES
+AU  - Rew, Lisa J
+PB  - University of Reading
+PY  - 1993
+ST  - Spatial and comparative aspects of arable field margin flora
+TI  - Spatial and comparative aspects of arable field margin flora
+ID  - 49503
+ER  - 
+
+TY  - THES
+AU  - Sgouridis, Fotis
+PB  - Department of Geography and School of Biological and Chemical Sciences Queen Mary, University of London
+PY  - 2010
+ST  - Nitrate attenuation in a restored river floodplain system: River Cole (Oxfordshire-UK)
+TI  - Nitrate attenuation in a restored river floodplain system: River Cole (Oxfordshire-UK)
+ID  - 49486
+ER  - 
+
+TY  - THES
+AU  - Sgouridis, Fotis
+PB  - Department of Geography and School of Biological and Chemical Sciences Queen Mary, University of London
+PY  - 2010
+ST  - Nitrate attenuation in a restored river floodplain system: River Cole (Oxfordshire-UK)
+TI  - Nitrate attenuation in a restored river floodplain system: River Cole (Oxfordshire-UK)
+ID  - 50933
+ER  - 
+
+TY  - THES
+AU  - Sinnott, Dennis
+PB  - University of Central Lancashire;
+PY  - 2004
+ST  - The development of a hydrological buffer zone strategy for designating the mesotope protection zone of raised mire systems
+TI  - The development of a hydrological buffer zone strategy for designating the mesotope protection zone of raised mire systems
+ID  - 49476
+ER  - 
+
+TY  - THES
+AU  - Smith, Joanne
+PB  - University of Reading
+PY  - 2007
+ST  - Agri-environment schemes and soil biodiversity: assessing the conservation, biodiversity and functional value of arable field margins for soil macrofauna
+TI  - Agri-environment schemes and soil biodiversity: assessing the conservation, biodiversity and functional value of arable field margins for soil macrofauna
+ID  - 49506
+ER  - 
+
+TY  - THES
+AU  - Spratt, Sharon Elizabeth
+PB  - University of Ulster
+PY  - 2012
+ST  - An ecological study of grassland field margins in Northern Ireland
+TI  - An ecological study of grassland field margins in Northern Ireland
+ID  - 49499
+ER  - 
+
+TY  - THES
+AU  - Stockan, Jennifer A
+PB  - University of Aberdeen
+PY  - 2013
+ST  - Impacts of riparian buffer strips on biodiversity
+TI  - Impacts of riparian buffer strips on biodiversity
+ID  - 49478
+ER  - 
+
+TY  - THES
+AU  - Stockan, Jennifer A
+PB  - University of Aberdeen
+PY  - 2013
+ST  - Impacts of riparian buffer strips on biodiversity
+TI  - Impacts of riparian buffer strips on biodiversity
+ID  - 49490
+ER  - 
+
+TY  - THES
+AU  - Stockan, Jennifer A
+PB  - University of Aberdeen
+PY  - 2013
+ST  - Impacts of riparian buffer strips on biodiversity
+TI  - Impacts of riparian buffer strips on biodiversity
+ID  - 50927
+ER  - 
+
+TY  - JOUR
+AU  - Sullivan, Amy Louise
+PY  - 2005
+ST  - A multiscale investigation into the effects of agriculture on flood hydrology in southwest England
+TI  - A multiscale investigation into the effects of agriculture on flood hydrology in southwest England
+ID  - 49496
+ER  - 
+
+TY  - THES
+AU  - Thomas, Stephen Michael
+PB  - Cardiff University
+PY  - 2013
+ST  - Consequences of riparian land use for macroinvertebrate communities and trout in upland streams
+TI  - Consequences of riparian land use for macroinvertebrate communities and trout in upland streams
+ID  - 49492
+ER  - 
+
+TY  - THES
+AU  - Walker, MP
+PB  - University of Staffordshire
+PY  - 2007
+ST  - Farmland birds in field margins with special reference to green lanes
+TI  - Farmland birds in field margins with special reference to green lanes
+ID  - 49513
+ER  - 
+
+TY  - THES
+AU  - Young, SW
+PB  - University of Salford
+PY  - 1993
+ST  - Studies of the potential of vegetative buffer strips to control fertiliser run off into aquatic systems and the use of marginal plants as biotic indicators of nutrient status
+TI  - Studies of the potential of vegetative buffer strips to control fertiliser run off into aquatic systems and the use of marginal plants as biotic indicators of nutrient status
+ID  - 49489
+ER  - 
+

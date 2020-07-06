@@ -1,0 +1,186 @@
+﻿TY  - THES
+AU  - Balmford, David
+PB  - Durham University
+PY  - 2011
+ST  - Spatial and temporal water quality in the River Esk in relation to freshwater pearl mussels
+TI  - Spatial and temporal water quality in the River Esk in relation to freshwater pearl mussels
+ID  - 50898
+ER  - 
+
+TY  - JOUR
+AU  - Boz, Bruno
+PY  - 2011
+ST  - Denitrification activity and denitrifying population dynamic in the soil of a wooded riparian strip
+TI  - Denitrification activity and denitrifying population dynamic in the soil of a wooded riparian strip
+ID  - 49461
+ER  - 
+
+TY  - JOUR
+AU  - Boz, Bruno
+PY  - 2011
+ST  - Denitrification activity and denitrifying population dynamic in the soil of a wooded riparian strip
+TI  - Denitrification activity and denitrifying population dynamic in the soil of a wooded riparian strip
+ID  - 50890
+ER  - 
+
+TY  - JOUR
+AU  - Duzant, Julia H
+PY  - 2008
+ST  - Towards guidance for the design and placement of vegetated filter strips
+TI  - Towards guidance for the design and placement of vegetated filter strips
+ID  - 49469
+ER  - 
+
+TY  - THES
+AU  - Evers, Stephanie L
+PB  - University of Glasgow
+PY  - 2008
+ST  - The role of forest stream corridor characteristics in influencing stream and riparian ecology
+TI  - The role of forest stream corridor characteristics in influencing stream and riparian ecology
+ID  - 50900
+ER  - 
+
+TY  - JOUR
+AU  - Hasselquist, Eliza Maher
+PY  - 2015
+ST  - Gradients of time and complexity: understanding how riparian and instream ecosystems recover after stream restoration
+TI  - Gradients of time and complexity: understanding how riparian and instream ecosystems recover after stream restoration
+ID  - 50891
+ER  - 
+
+TY  - JOUR
+AU  - Hefting, Maria Margaretha
+PY  - 2003
+ST  - Nitrogen transformation and retention in riparian buffer zones
+TI  - Nitrogen transformation and retention in riparian buffer zones
+ID  - 49466
+ER  - 
+
+TY  - JOUR
+AU  - Hefting, Maria Margaretha
+PY  - 2003
+ST  - Nitrogen transformation and retention in riparian buffer zones
+TI  - Nitrogen transformation and retention in riparian buffer zones
+ID  - 50896
+ER  - 
+
+TY  - JOUR
+AU  - Hylander, Kristoffer
+PY  - 2004
+ST  - Living on the edge: effectiveness of buffer strips in protecting biodiversity on boreal riparian forests
+TI  - Living on the edge: effectiveness of buffer strips in protecting biodiversity on boreal riparian forests
+ID  - 49464
+ER  - 
+
+TY  - JOUR
+AU  - Kronberg, Rose-Marie
+PY  - 2014
+SN  - 9157679703
+ST  - The boreal journey of methyl mercury
+TI  - The boreal journey of methyl mercury
+ID  - 50899
+ER  - 
+
+TY  - BOOK
+AU  - Kuusemets, Valdo
+PB  - Tartu: Tartu University Press
+PY  - 1999
+SN  - 9949376351
+ST  - Nitrogen and phosphorus transformation in riparian buffer zones of agricultural landscapes in Estonia
+TI  - Nitrogen and phosphorus transformation in riparian buffer zones of agricultural landscapes in Estonia
+ID  - 50894
+ER  - 
+
+TY  - THES
+AU  - Langhof, Maren
+PY  - 2005
+ST  - Insecticide drift from agricultural spraying into field margin habitats and its effects on non-target arthropods: residual toxicity, impact on populations, and recolonisation processes
+TI  - Insecticide drift from agricultural spraying into field margin habitats and its effects on non-target arthropods: residual toxicity, impact on populations, and recolonisation processes
+ID  - 49463
+ER  - 
+
+TY  - JOUR
+AU  - Ma, Maohua
+PY  - 2006
+ST  - Plant species diversity of buffer zones in agricultural landscapes: in search of determinants from the local to regional scale
+TI  - Plant species diversity of buffer zones in agricultural landscapes: in search of determinants from the local to regional scale
+ID  - 49468
+ER  - 
+
+TY  - THES
+AU  - Matheson, Fleur Elizabeth
+PB  - Durham University
+PY  - 2001
+ST  - Nitrogen removal and the fate of nitrate in riparian buffer zones
+TI  - Nitrogen removal and the fate of nitrate in riparian buffer zones
+ID  - 50895
+ER  - 
+
+TY  - THES
+AU  - O'Driscoll, Connie
+PY  - 2012
+ST  - Assessment and mitigation of forest clearfelling impacts on salmonid receiving waters
+TI  - Assessment and mitigation of forest clearfelling impacts on salmonid receiving waters
+ID  - 50889
+ER  - 
+
+TY  - THES
+AU  - Pärn, Jaan
+PY  - 2010
+ST  - Landscape factors in material transport from rural catchments in Estonia
+TI  - Landscape factors in material transport from rural catchments in Estonia
+ID  - 50892
+ER  - 
+
+TY  - JOUR
+AU  - Rahman, Md
+PY  - 2011
+ST  - Microbial biodiversity in a wooded riparian zone specifically designed for enhancing denitrification process
+TI  - Microbial biodiversity in a wooded riparian zone specifically designed for enhancing denitrification process
+ID  - 49465
+ER  - 
+
+TY  - JOUR
+AU  - Rahman, Md
+PY  - 2011
+ST  - Microbial biodiversity in a wooded riparian zone specifically designed for enhancing denitrification process
+TI  - Microbial biodiversity in a wooded riparian zone specifically designed for enhancing denitrification process
+ID  - 50893
+ER  - 
+
+TY  - THES
+AU  - Rouabah, Abdelhak
+PB  - Université de Lorraine
+PY  - 2015
+ST  - Effets de la gestion des bandes enherbées sur le contrôle biologique des ravageurs de cultures: rôle de la diversité fonctionnelle des carabes (Coleoptera-Carabidae) et de la structure végétale
+TI  - Effets de la gestion des bandes enherbées sur le contrôle biologique des ravageurs de cultures: rôle de la diversité fonctionnelle des carabes (Coleoptera-Carabidae) et de la structure végétale
+ID  - 49462
+ER  - 
+
+TY  - JOUR
+AU  - Schmitz, Juliane
+PY  - 2007
+ST  - Assessing the effects of pesticides and fertilizers on a natural plant community of a field margin: An experimental field study
+TI  - Assessing the effects of pesticides and fertilizers on a natural plant community of a field margin: An experimental field study
+ID  - 49460
+ER  - 
+
+TY  - JOUR
+AU  - Väänänen, Riitta
+PY  - 2008
+SN  - 1795-7389
+ST  - Phosphorus retention in forest soils and the functioning of buffer zones used in forestry
+T2  - Dissertationes Forestales
+TI  - Phosphorus retention in forest soils and the functioning of buffer zones used in forestry
+ID  - 49467
+ER  - 
+
+TY  - JOUR
+AU  - Van den Heuvel, RN
+PY  - 2010
+SN  - 9789905335
+ST  - Nitrous oxide emission hotspots and acidic soil denitrification in a riparian buffer zone
+TI  - Nitrous oxide emission hotspots and acidic soil denitrification in a riparian buffer zone
+ID  - 50897
+ER  - 
+

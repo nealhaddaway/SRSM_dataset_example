@@ -1,0 +1,661 @@
+﻿TY  - JOUR
+AU  - Ågren, Anneli M
+AU  - Lidberg, William
+AU  - Ring, Eva
+IS  - 9
+PY  - 2015
+SP  - 2982-3001
+ST  - Mapping Temporal Dynamics in a Forest Stream Network—Implications for Riparian Forest Management
+T2  - Forests
+TI  - Mapping Temporal Dynamics in a Forest Stream Network—Implications for Riparian Forest Management
+VL  - 6
+ID  - 49529
+ER  - 
+
+TY  - JOUR
+AU  - Bhar, Rod
+AU  - Fahrig, Lenore
+IS  - 3
+PY  - 1998
+ST  - Local vs. landscape effects of woody field borders as barriers to crop pest movement
+T2  - Conserv. Ecol
+TI  - Local vs. landscape effects of woody field borders as barriers to crop pest movement
+VL  - 2
+ID  - 49536
+ER  - 
+
+TY  - JOUR
+AU  - Borderelle, Anne-Laure
+AU  - Gerdeaux, Daniel
+AU  - Giraudoux, Patrick
+AU  - Verneaux, Valérie
+IS  - 392
+PY  - 2009
+SN  - 1961-9502
+SP  - 01
+ST  - Influence of watershed’s anthropogenic activities on fish nitrogen and carbon stable isotope ratios in nine French lakes
+T2  - Knowledge and Management of Aquatic Ecosystems
+TI  - Influence of watershed’s anthropogenic activities on fish nitrogen and carbon stable isotope ratios in nine French lakes
+ID  - 49534
+ER  - 
+
+TY  - JOUR
+AU  - Bowler, Diana E
+AU  - Mant, Rebecca
+AU  - Orr, Harriet
+AU  - Hannah, David M
+AU  - Pullin, Andrew S
+IS  - 3
+PY  - 2012
+ST  - What are the effects of wooded riparian zones on stream temperature
+T2  - Environmental Evidence
+TI  - What are the effects of wooded riparian zones on stream temperature
+VL  - 1
+ID  - 50923
+ER  - 
+
+TY  - JOUR
+AU  - Broadmeadow, S
+AU  - Nisbet, TR
+IS  - 3
+PY  - 2004
+SP  - 286-305
+ST  - The effects of riparian forest management on the freshwater environment: a literature review of best management practice
+T2  - Hydrology and Earth System Sciences Discussions
+TI  - The effects of riparian forest management on the freshwater environment: a literature review of best management practice
+VL  - 8
+ID  - 50917
+ER  - 
+
+TY  - JOUR
+AU  - Clipp, Hannah L
+AU  - Anderson, James T
+IS  - 11
+PY  - 2014
+SP  - 2679-2702
+ST  - Environmental and Anthropogenic Factors Influencing Salamanders in Riparian Forests: A Review
+T2  - Forests
+TI  - Environmental and Anthropogenic Factors Influencing Salamanders in Riparian Forests: A Review
+VL  - 5
+ID  - 50911
+ER  - 
+
+TY  - JOUR
+AU  - da Silva, Alexandre Marco
+AU  - Silveira, Felipe Muniz
+AU  - Ikematsu, Priscila
+AU  - de Paula, Fabiolla Pereira
+AU  - Bomback, Michele
+AU  - Nogueira, Davi Pajaro
+AU  - Alves, Sergio Henrique
+IS  - 2
+PY  - 2009
+SN  - 1980-993X
+SP  - 147-155
+ST  - Spatial and temporal analysis of the land cover in riparian buffer zones (Areas for Permanent Preservation) in Sorocaba City, SP, Brazil
+T2  - Ambiente & Água-An Interdisciplinary Journal of Applied Science
+TI  - Spatial and temporal analysis of the land cover in riparian buffer zones (Areas for Permanent Preservation) in Sorocaba City, SP, Brazil
+VL  - 4
+ID  - 49523
+ER  - 
+
+TY  - JOUR
+AU  - da Silva, Alexandre Marco
+AU  - Silveira, Felipe Muniz
+AU  - Ikematsu, Priscila
+AU  - de Paula, Fabiolla Pereira
+AU  - Bomback, Michele
+AU  - Nogueira, Davi Pajaro
+AU  - Alves, Sergio Henrique
+IS  - 2
+PY  - 2009
+SN  - 1980-993X
+SP  - 147-155
+ST  - Spatial and temporal analysis of the land cover in riparian buffer zones (Areas for Permanent Preservation) in Sorocaba City, SP, Brazil
+T2  - Ambiente & Água-An Interdisciplinary Journal of Applied Science
+TI  - Spatial and temporal analysis of the land cover in riparian buffer zones (Areas for Permanent Preservation) in Sorocaba City, SP, Brazil
+VL  - 4
+ID  - 50901
+ER  - 
+
+TY  - JOUR
+AU  - Fernández, D
+AU  - Barquín, J
+AU  - Álvarez-Cabria, M
+AU  - Peñas, FJ
+PY  - 2012
+SP  - 4045-4071
+ST  - Delineating riparian zones for entire river networks using geomorphological criteria
+T2  - Hydrology and Earth System Sciences Discussions
+TI  - Delineating riparian zones for entire river networks using geomorphological criteria
+VL  - 9
+ID  - 50906
+ER  - 
+
+TY  - JOUR
+AU  - Ferris, Gavin
+AU  - D'Amico, Vincent
+AU  - Williams, Christopher K
+PY  - 2012
+SN  - 1687-9708
+ST  - Determining effective riparian buffer width for nonnative plant exclusion and habitat enhancement
+T2  - International Journal of Ecology
+TI  - Determining effective riparian buffer width for nonnative plant exclusion and habitat enhancement
+VL  - 2012
+ID  - 50924
+ER  - 
+
+TY  - JOUR
+AU  - Flynn, NJ
+AU  - Paddison, T
+AU  - Whitehead, PG
+IS  - 3
+PY  - 2002
+SP  - 467-484
+ST  - INCA Modelling of the Lee System: strategies for the reduction of nitrogen loads
+T2  - Hydrology and Earth System Sciences Discussions
+TI  - INCA Modelling of the Lee System: strategies for the reduction of nitrogen loads
+VL  - 6
+ID  - 50921
+ER  - 
+
+TY  - JOUR
+AU  - Fortier, Julien
+AU  - Truax, Benoit
+AU  - Gagnon, Daniel
+AU  - Lambert, France
+IS  - 5
+PY  - 2013
+SP  - 1893-1916
+ST  - Mature hybrid poplar riparian buffers along farm streams produce high yields in response to soil fertility assessed using three methods
+T2  - Sustainability
+TI  - Mature hybrid poplar riparian buffers along farm streams produce high yields in response to soil fertility assessed using three methods
+VL  - 5
+ID  - 50919
+ER  - 
+
+TY  - JOUR
+AU  - Hartig, John H
+AU  - Krueger, Allison
+AU  - Rice, Kelly
+AU  - Niswander, Steven F
+AU  - Jenkins, Burke
+AU  - Norwood, Greg
+IS  - 5
+PY  - 2012
+SP  - 1043-1058
+ST  - Transformation of an Industrial Brownfield into an Ecological Buffer for Michigan’s Only Ramsar Wetland of International Importance
+T2  - Sustainability
+TI  - Transformation of an Industrial Brownfield into an Ecological Buffer for Michigan’s Only Ramsar Wetland of International Importance
+VL  - 4
+ID  - 50913
+ER  - 
+
+TY  - JOUR
+AU  - Helling, Alexander P
+AU  - Conner, David S
+AU  - Heiss, Sarah N
+AU  - Berlin, Linda S
+IS  - 3
+PY  - 2015
+SP  - 879-900
+ST  - Economic Analysis of Climate Change Best Management Practices in Vermont Agriculture
+T2  - Agriculture
+TI  - Economic Analysis of Climate Change Best Management Practices in Vermont Agriculture
+VL  - 5
+ID  - 50922
+ER  - 
+
+TY  - JOUR
+AU  - Jones, Krista L
+AU  - Poole, Geoffrey C
+AU  - Meyer, Judy L
+AU  - Bumback, William
+AU  - Kramer, Elizabeth A
+IS  - 2
+PY  - 2006
+SN  - 1708-3087
+SP  - 15
+ST  - Quantifying expected ecological response to natural resource legislation: a case study of riparian buffers, aquatic habitat, and trout populations
+T2  - Ecology and Society
+TI  - Quantifying expected ecological response to natural resource legislation: a case study of riparian buffers, aquatic habitat, and trout populations
+VL  - 11
+ID  - 50908
+ER  - 
+
+TY  - JOUR
+AU  - Jung-Hun, Pee
+AU  - Woo-Seok, Oh
+IS  - 4
+PY  - 2013
+SN  - 2288-1220
+SP  - 235-243
+ST  - Reference information for realizing ecological restoration of river: A case study in the Bongseonsa stream
+T2  - Journal of Ecology and Environment
+TI  - Reference information for realizing ecological restoration of river: A case study in the Bongseonsa stream
+VL  - 36
+ID  - 50912
+ER  - 
+
+TY  - JOUR
+AU  - Kelly, J Michael
+AU  - Kovar, JL
+PY  - 2012
+SN  - 1687-7667
+ST  - Modeling Phosphorus Capture by Plants Growing in a Multispecies Riparian Buffer
+T2  - Applied and Environmental Soil Science
+TI  - Modeling Phosphorus Capture by Plants Growing in a Multispecies Riparian Buffer
+VL  - 2012
+ID  - 50909
+ER  - 
+
+TY  - JOUR
+AU  - Kim, DG
+AU  - Isenhart, TM
+AU  - Parkin, TB
+AU  - Schultz, RC
+AU  - Loynachan, TE
+AU  - Raich, JW
+IS  - 1
+PY  - 2009
+SN  - 1810-6277
+SP  - 607
+ST  - Nitrous oxide emissions from riparian forest buffers, warm-season and cool-season grass filters, and crop fields
+T2  - Biogeosciences Discussions
+TI  - Nitrous oxide emissions from riparian forest buffers, warm-season and cool-season grass filters, and crop fields
+VL  - 6
+ID  - 50916
+ER  - 
+
+TY  - JOUR
+AU  - Kim, D-G
+AU  - Isenhart, TM
+AU  - Parkin, TB
+AU  - Schultz, RC
+AU  - Loynachan, TE
+IS  - 1
+PY  - 2009
+SN  - 1810-6277
+SP  - 651-685
+ST  - Nitrate and dissolved nitrous oxide in groundwater within cropped fields and riparian buffers
+T2  - Biogeosciences Discussions
+TI  - Nitrate and dissolved nitrous oxide in groundwater within cropped fields and riparian buffers
+VL  - 6
+ID  - 50910
+ER  - 
+
+TY  - JOUR
+AU  - Laurén, Ari
+AU  - Finér, Leena
+AU  - Koivusalo, Harri
+AU  - Kokkonen, Teemu
+AU  - Karvonen, Tuomo
+AU  - Kellomäki, Seppo
+AU  - Mannerkoski, Hannu
+AU  - Ahtiainen, Marketta
+IS  - 6
+PY  - 2005
+SP  - 657-674
+ST  - Water and nitrogen processes along a typical water flowpath and streamwater exports from a forested catchment and changes after clear-cutting: a modelling study
+T2  - Hydrology and Earth System Sciences Discussions
+TI  - Water and nitrogen processes along a typical water flowpath and streamwater exports from a forested catchment and changes after clear-cutting: a modelling study
+VL  - 9
+ID  - 49532
+ER  - 
+
+TY  - JOUR
+AU  - Ludovice, Maria T Falsetti
+AU  - Roston, Denis M
+AU  - Filho, José Teixeira
+IS  - 2
+PY  - 2003
+SP  - 323-328
+ST  - Efeito da faixa-filtro na retenção de atrazina em escoament azina em escoament azina em escoamento superficial o superficial
+T2  - Revista Brasileira de Engenharia Agrícola e Ambiental
+TI  - Efeito da faixa-filtro na retenção de atrazina em escoament azina em escoament azina em escoamento superficial o superficial
+VL  - 7
+ID  - 49533
+ER  - 
+
+TY  - JOUR
+AU  - Machado, RE
+AU  - Vettorazzi, CA
+AU  - Xavier, AC
+IS  - 4
+PY  - 2003
+SN  - 0100-0683
+SP  - 727-733
+ST  - Simulação de cenários alternativos de uso da terra em uma microbacia utilizando técnicas de modelagem e geoprocessamento
+T2  - Revista Brasileira de Ciência do Solo
+TI  - Simulação de cenários alternativos de uso da terra em uma microbacia utilizando técnicas de modelagem e geoprocessamento
+VL  - 27
+ID  - 50907
+ER  - 
+
+TY  - JOUR
+AU  - Madrigal Monárrez, Ismael
+AU  - Benoit, Pierre
+AU  - Barriuso, Enrique
+AU  - Réal, Benoît
+AU  - Dutertre, Alain
+AU  - Moquet, Michel
+AU  - Trejo Hernández, Maria
+AU  - Ortiz Hernández, Laura
+IS  - 3
+PY  - 2008
+SN  - 0120-5609
+SP  - 96-104
+ST  - Pesticide sorption and desorption from soils having different land use
+T2  - Ingeniería e Investigación
+TI  - Pesticide sorption and desorption from soils having different land use
+VL  - 28
+ID  - 49524
+ER  - 
+
+TY  - JOUR
+AU  - Mayzelle, Megan M
+AU  - Viers, Joshua H
+AU  - Medellín-Azuara, Josué
+AU  - Harter, Thomas
+IS  - 1
+PY  - 2014
+SP  - 12-37
+ST  - Economic Feasibility of Irrigated Agricultural Land Use Buffers to Reduce Groundwater Nitrate in Rural Drinking Water Sources
+T2  - Water
+TI  - Economic Feasibility of Irrigated Agricultural Land Use Buffers to Reduce Groundwater Nitrate in Rural Drinking Water Sources
+VL  - 7
+ID  - 49528
+ER  - 
+
+TY  - JOUR
+AU  - Meynendonckx, J
+AU  - Heuvelmans, G
+AU  - Muys, Bart
+AU  - Feyen, Jan
+IS  - 3
+PY  - 2006
+SP  - 653-679
+ST  - Effects of watershed and riparian zone characteristics on nutrient concentrations in the River Scheldt Basin
+T2  - Hydrology and Earth System Sciences Discussions Discussions
+TI  - Effects of watershed and riparian zone characteristics on nutrient concentrations in the River Scheldt Basin
+VL  - 3
+ID  - 49526
+ER  - 
+
+TY  - JOUR
+AU  - Meynendonckx, J
+AU  - Heuvelmans, G
+AU  - Muys, Bart
+AU  - Feyen, Jan
+IS  - 3
+PY  - 2006
+SP  - 653-679
+ST  - Effects of watershed and riparian zone characteristics on nutrient concentrations in the River Scheldt Basin
+T2  - Hydrology and Earth System Sciences Discussions Discussions
+TI  - Effects of watershed and riparian zone characteristics on nutrient concentrations in the River Scheldt Basin
+VL  - 3
+ID  - 49531
+ER  - 
+
+TY  - JOUR
+AU  - Novara, A
+AU  - Gristina, L
+AU  - Guaitoli, F
+AU  - Santoro, A
+AU  - Cerdà, A
+IS  - 2
+PY  - 2013
+SN  - 1869-9510
+SP  - 255-262
+ST  - Managing soil nitrate with cover crops and buffer strips in Sicilian vineyards
+T2  - Solid Earth
+TI  - Managing soil nitrate with cover crops and buffer strips in Sicilian vineyards
+VL  - 4
+ID  - 49527
+ER  - 
+
+TY  - JOUR
+AU  - Novara, A
+AU  - Gristina, L
+AU  - Guaitoli, F
+AU  - Santoro, A
+AU  - Cerdà, A
+IS  - 2
+PY  - 2013
+SN  - 1869-9510
+SP  - 255-262
+ST  - Managing soil nitrate with cover crops and buffer strips in Sicilian vineyards
+T2  - Solid Earth
+TI  - Managing soil nitrate with cover crops and buffer strips in Sicilian vineyards
+VL  - 4
+ID  - 49537
+ER  - 
+
+TY  - JOUR
+AU  - Olson, Deanna H
+AU  - Burton, Julia I
+IS  - 11
+PY  - 2014
+SP  - 2703-2729
+ST  - Near-Term Effects of Repeated-Thinning with Riparian Buffers on Headwater Stream Vertebrates and Habitats in Oregon, USA
+T2  - Forests
+TI  - Near-Term Effects of Repeated-Thinning with Riparian Buffers on Headwater Stream Vertebrates and Habitats in Oregon, USA
+VL  - 5
+ID  - 50903
+ER  - 
+
+TY  - JOUR
+AU  - Park, Youn Shik
+AU  - Engel, Bernie A
+AU  - Shin, Yongchul
+AU  - Choi, Joongdae
+AU  - Kim, Nam-Won
+AU  - Kim, Seong-Joon
+AU  - Kong, Dong Soo
+AU  - Lim, Kyoung Jae
+IS  - 3
+PY  - 2013
+SP  - 1194-1210
+ST  - Development of Web GIS-based VFSMOD System with three modules for effective vegetative filter strip design
+T2  - Water
+TI  - Development of Web GIS-based VFSMOD System with three modules for effective vegetative filter strip design
+VL  - 5
+ID  - 49530
+ER  - 
+
+TY  - JOUR
+AU  - Park, Youn Shik
+AU  - Park, Jeong Hee
+AU  - Jang, Won Seok
+AU  - Ryu, Ji Chul
+AU  - Kang, Hyunwoo
+AU  - Choi, Joongdae
+AU  - Lim, Kyoung Jae
+IS  - 3
+PY  - 2011
+SP  - 819-842
+ST  - Hydrologic response unit routing in SWAT to simulate effects of vegetated filter strip for South-Korean conditions based on VFSMOD
+T2  - Water
+TI  - Hydrologic response unit routing in SWAT to simulate effects of vegetated filter strip for South-Korean conditions based on VFSMOD
+VL  - 3
+ID  - 49522
+ER  - 
+
+TY  - JOUR
+AU  - Piniewski, Mikołaj
+AU  - Marcinkowski, Paweł
+AU  - Kardel, Ignacy
+AU  - Giełczewski, Marek
+AU  - Izydorczyk, Katarzyna
+AU  - Frątczak, Wojciech
+IS  - 5
+PY  - 2015
+SP  - 1889-1920
+ST  - Spatial Quantification of Non-Point Source Pollution in a Meso-Scale Catchment for an Assessment of Buffer Zones Efficiency
+T2  - Water
+TI  - Spatial Quantification of Non-Point Source Pollution in a Meso-Scale Catchment for an Assessment of Buffer Zones Efficiency
+VL  - 7
+ID  - 50915
+ER  - 
+
+TY  - JOUR
+AU  - Pires, Luiz F
+AU  - Bacchi, Osny OS
+AU  - Correchel, Vladia
+AU  - Reichardt, Klaus
+AU  - Filippe, Joseline
+IS  - 2
+PY  - 2009
+SN  - 0001-3765
+SP  - 271-279
+ST  - Riparian forest potential to retain sediment and carbon evaluated by the 137Cs fallout and carbon isotopic ratio techniques
+T2  - Anais da Academia Brasileira de Ciências
+TI  - Riparian forest potential to retain sediment and carbon evaluated by the 137Cs fallout and carbon isotopic ratio techniques
+VL  - 81
+ID  - 50914
+ER  - 
+
+TY  - JOUR
+AU  - Rahman, Mizanur Md
+AU  - Basaglia, Marina
+AU  - Favaro, Lorenzo
+AU  - Boz, Bruno
+AU  - Gumiero, Bruna
+AU  - Casella, Sergio
+IS  - 1
+PY  - 2014
+SN  - 2039-6805
+SP  - 33-37
+ST  - A wooded riparian strip set up for nitrogen removal can affect the water flux microbial composition
+T2  - Italian Journal of Agronomy
+TI  - A wooded riparian strip set up for nitrogen removal can affect the water flux microbial composition
+VL  - 9
+ID  - 49525
+ER  - 
+
+TY  - JOUR
+AU  - Rheinhardt, Richard D
+AU  - Brinson, Mark M
+AU  - Meyer, Gregory F
+AU  - Miller, Kevin H
+IS  - 1
+PY  - 2012
+SN  - 1750-0680
+SP  - 1-5
+ST  - Carbon storage of headwater riparian zones in an agricultural landscape
+T2  - Carbon balance and management
+TI  - Carbon storage of headwater riparian zones in an agricultural landscape
+VL  - 7
+ID  - 50920
+ER  - 
+
+TY  - JOUR
+AU  - Silva, Alexandre Marco da
+AU  - Nalon, Marco Aurélio
+AU  - Kronka, Francisco José do Nascimento
+AU  - Alvares, Clayton Alcarde
+AU  - Camargo, Plinio Barbosa de
+AU  - Martinelli, Luiz Antonio
+IS  - 4
+PY  - 2007
+SN  - 0103-9016
+SP  - 325-335
+ST  - Historical land-cover/use in different slope and riparian buffer zones in watersheds of the state of São Paulo, Brazil
+T2  - Scientia Agricola
+TI  - Historical land-cover/use in different slope and riparian buffer zones in watersheds of the state of São Paulo, Brazil
+VL  - 64
+ID  - 50904
+ER  - 
+
+TY  - CONF
+AU  - Toews, RB
+AU  - Friessleben, R
+AU  - Naunheim, P
+M1  - 434
+PB  - Julius Kühn Institut, Bundesforschungsinstitut für Kulturpflanzen
+PY  - 2012
+SN  - 1868-9892
+SP  - 223-227
+ST  - Multiannual results on the influence of different application techniques on the efficacy of selective grass control in cereals
+T2  - Julius-Kühn-Archiv
+TI  - Multiannual results on the influence of different application techniques on the efficacy of selective grass control in cereals
+VL  - 1
+ID  - 49538
+ER  - 
+
+TY  - JOUR
+AU  - Toneli, Carlos Augusto Zangrando
+AU  - Carvalho, Luis Marcelo Tavares de
+IS  - 3
+PY  - 2011
+SN  - 0104-7760
+SP  - 411
+ST  - Sub-pixel estimation of tree cover and bare surface densities using regression tree analysis
+T2  - Cerne
+TI  - Sub-pixel estimation of tree cover and bare surface densities using regression tree analysis
+VL  - 17
+ID  - 50902
+ER  - 
+
+TY  - JOUR
+AU  - Tosi, Paolo
+AU  - Rossi, Livio
+IS  - 1s
+PY  - 2011
+SN  - 2039-6805
+SP  - 18
+ST  - GAEC cross-compliance standard Vegetation buffer on water courses: possible methods of detection by Remote Sensing products and existing data
+T2  - Italian Journal of Agronomy
+TI  - GAEC cross-compliance standard Vegetation buffer on water courses: possible methods of detection by Remote Sensing products and existing data
+VL  - 6
+ID  - 49539
+ER  - 
+
+TY  - JOUR
+AU  - Van Looy, K
+AU  - Tormos, T
+AU  - Ferréol, M
+AU  - Villeneuve, B
+AU  - Valette, L
+AU  - Chandesris, A
+AU  - Bougon, N
+AU  - Oraison, F
+AU  - Souchon, Y
+IS  - 408
+PY  - 2013
+SN  - 1961-9502
+SP  - 06
+ST  - Benefits of riparian forest for the aquatic ecosystem assessed at a large geographic scale
+T2  - Knowledge and Management of Aquatic Ecosystems
+TI  - Benefits of riparian forest for the aquatic ecosystem assessed at a large geographic scale
+ID  - 50905
+ER  - 
+
+TY  - JOUR
+AU  - Weissteiner, CJ
+AU  - Bouraoui, F
+AU  - Aloe, A
+IS  - 408
+PY  - 2013
+SN  - 1961-9502
+SP  - 08
+ST  - Reduction of nitrogen and phosphorus loads to European rivers by riparian buffer zones
+T2  - Knowledge and Management of Aquatic Ecosystems
+TI  - Reduction of nitrogen and phosphorus loads to European rivers by riparian buffer zones
+ID  - 49535
+ER  - 
+
+TY  - JOUR
+AU  - Weissteiner, CJ
+AU  - Bouraoui, F
+AU  - Aloe, A
+IS  - 408
+PY  - 2013
+SN  - 1961-9502
+SP  - 08
+ST  - Reduction of nitrogen and phosphorus loads to European rivers by riparian buffer zones
+T2  - Knowledge and Management of Aquatic Ecosystems
+TI  - Reduction of nitrogen and phosphorus loads to European rivers by riparian buffer zones
+ID  - 50918
+ER  - 
+
